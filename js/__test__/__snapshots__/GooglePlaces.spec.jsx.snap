@@ -1,0 +1,171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search renders correctly 1`] = `
+<div
+  className="container-fluid"
+>
+  <Search
+    city={
+      Object {
+        "location": Object {
+          "lat": 0,
+          "lng": 0,
+        },
+        "name": "",
+      }
+    }
+    onEnter={[Function]}
+    onSearchTermChange={[Function]}
+    searchTerm=""
+  />
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-4"
+      style={
+        Object {
+          "height": "900px",
+          "width": "100%",
+        }
+      }
+    >
+      <withGoogleMap(Map)
+        center={
+          Object {
+            "lat": 0,
+            "lng": 0,
+          }
+        }
+        containerElement={
+          <div
+            style={
+              Object {
+                "height": "100%",
+              }
+            }
+          />
+        }
+        map={null}
+        mapElement={
+          <div
+            style={
+              Object {
+                "height": "100%",
+              }
+            }
+          />
+        }
+        markers={Array []}
+        onClickMarker={[Function]}
+        onCloseMarker={[Function]}
+        onMapLoaded={[Function]}
+        onMapMoved={[Function]}
+        zoom={15}
+      />
+    </div>
+    <div
+      className="col-md-8"
+      style={
+        Object {
+          "height": "900px",
+          "overflowX": "scroll",
+          "width": "100%",
+        }
+      }
+    >
+      <List
+        cities={
+          Array [
+            Object {
+              "id": 1,
+              "location": Object {
+                "lat": 40.728199,
+                "lng": -73.9894738,
+              },
+              "name": "New York City",
+              "state": "NY",
+            },
+            Object {
+              "id": 2,
+              "location": Object {
+                "lat": 37.7653358,
+                "lng": -122.4386605,
+              },
+              "name": "San Francisco",
+              "state": "CA",
+            },
+            Object {
+              "id": 3,
+              "location": Object {
+                "lat": 41.8333925,
+                "lng": -88.0121478,
+              },
+              "name": "Chicago",
+              "state": "IL",
+            },
+            Object {
+              "id": 4,
+              "location": Object {
+                "lat": 29.816881,
+                "lng": -95.6821568,
+              },
+              "name": "Houston",
+              "state": "TX",
+            },
+            Object {
+              "id": 5,
+              "location": Object {
+                "lat": 30.3409497,
+                "lng": -81.6769833,
+              },
+              "name": "Jacksonville",
+              "state": "FL",
+            },
+            Object {
+              "id": 6,
+              "location": Object {
+                "lat": 35.4823226,
+                "lng": -97.7600609,
+              },
+              "name": "Oklahoma City",
+              "state": "OK",
+            },
+            Object {
+              "id": 7,
+              "location": Object {
+                "lat": 34.0603946,
+                "lng": -118.3302357,
+              },
+              "name": "Los Angeles",
+              "state": "CA",
+            },
+            Object {
+              "id": 8,
+              "location": Object {
+                "lat": 33.6050976,
+                "lng": -112.4059151,
+              },
+              "name": "Phoenix",
+              "state": "AZ",
+            },
+          ]
+        }
+        city={
+          Object {
+            "location": Object {
+              "lat": 0,
+              "lng": 0,
+            },
+            "name": "",
+          }
+        }
+        markers={Array []}
+        onChooseCity={[Function]}
+        onClickDetail={[Function]}
+        onClickReset={[Function]}
+      />
+    </div>
+  </div>
+</div>
+`;

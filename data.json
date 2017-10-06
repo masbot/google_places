@@ -1,0 +1,881 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "CqQCFgEAAO4IgRqr4BEB0mxdoQxtaGJKbcFlKPnT40Vrcr4VEsfCG1SnFMXd_bZFdi7xCkiymLzYgY3KzdLxbQbl5bocgJ2k94Ow-5YnHIwkKOGe1MF4FgTaXgFq6e9ZdqwkbMBQtF-ZLa5eVEvyKOC3zLtiHZrcoG5Wm0C0f-e6AsbyKHcDOLBOU0DDxDzlQzTETEOCviRTozK1itwfWESJ4zJ0CzeZgKpCMS-cQZk4SI3kIt-n6__An3Z6T-u-3hwuJ6v2AEkhButGOH1VQZEIG4or2mbXOkFnia3c_4cFihnubeXyuMiMaZoQLJZH4UeDfnu2QXX971MSqWxaPfdvpuosWYeqlvcI-QiK5CvcR4jwXdd5DtSSzc48DdrGsGdJM-XOcxIQ9vRSzqLjD2ZiUhjW0qaWixoUkvJuVmhEBJtfI0dliYkiEGZB2vk",
+  "results" : [
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.72975739999999,
+          "lng" : -73.9927261
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.73110638029149,
+            "lng" : -73.9913771197085
+          },
+          "southwest" : {
+            "lat" : 40.72840841970849,
+            "lng" : -73.99407508029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "a8d9ceb23f5b708b20889db3da9afc3b438cd7c8",
+      "name" : "&pizza",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2388,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103394246726619129059/photos\"\u003eLucy Wong\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA4y2xJjfBQF2JafR9eWxUgkNuJgs-fMIxtq-NDwchwvE4XrQtOBacMElekoFqroRkqRWumuE5Y_mjZM-hY5fmh7AXHXJF9PVYbh3ehDyhgYq8BPSKhDyUsGeIqLuBwucpEhBg1Cbp1FfSQ5_Ctqxd4gj2GhSEfTyghPO-R4nbhw1YnwdUuzrGqw",
+          "width" : 3183
+        }
+      ],
+      "place_id" : "ChIJsQhVWppZwokRfowYUxoNgDw",
+      "rating" : 5,
+      "reference" : "CmRRAAAA4t0RAiiQNIR9optAeLm_kIGzBw4WJQ84PSYq-Lg5urgXcGC9AqLAW61Cth_uIpT9wCfSRkyeWCnFrntboOliFp4Rsnlbg9g1cwS_JD2teceDEBmmjxibKKBDkIfJvVExEhBAv7AYNVhlXHHQfMmukJLfGhTwW3kaGe-pNfU43T9NRvBFAoFw2w",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "740 Broadway, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.7305745,
+          "lng" : -73.9834651
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.7318674802915,
+            "lng" : -73.98198286970849
+          },
+          "southwest" : {
+            "lat" : 40.7291695197085,
+            "lng" : -73.9846808302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "f3f758d1276297b58f5c62e8822a2234f8fc7b82",
+      "name" : "Luzzo's La Pizza Napoletana",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 862,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111431098218367577125/photos\"\u003eLuzzo&#39;s La Pizza Napoletana\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAUaCwb8Pnpih6QtbdOqrKPUGAZ-rf_zxCo16cJPxqtHF9u5bVxAofVTuvfe8U4O_bE9eyh01BZiBaS4UK_uHHo4Nct-0NyrdsO_EFM8wrsCek8liVI6A7rYxEi4uwghG8EhBKRpowEq3PFRpBzCOrILt6GhTTweDrhuVu68YKG5kaigiAw1OK9w",
+          "width" : 864
+        }
+      ],
+      "place_id" : "ChIJaf7QAJ5ZwokR0I29INQQLXU",
+      "price_level" : 2,
+      "rating" : 4.3,
+      "reference" : "CmRRAAAAiejWzhNta5mLOXN5rqrwSLG3i8QWgDRqqUSnZhMIf-kSYynI90RW2cUvsoW-JkEM-TJiGP7FRUATxVwOH6BHAo2yBZ_RbVvOxRzWgpn-tD5q1DS2MNY3SoFLrvTWryiwEhCoFpPj2SsxoHwp-5hVvD8mGhQCh8xdyOgWj0Mhm1WoOBZDa6JScQ",
+      "scope" : "GOOGLE",
+      "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "213 1st Avenue, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.729311,
+          "lng" : -73.989806
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.7307341802915,
+            "lng" : -73.98840201970849
+          },
+          "southwest" : {
+            "lat" : 40.7280362197085,
+            "lng" : -73.99109998029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "41bd775a465a694864e2525c0243a12677fb0062",
+      "name" : "Ray's Pizza & Bagel Cafe",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104846736210137697144/photos\"\u003eDonny England\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAN0EamMy5X-SqaFOiQvWmDop3qNYPZ0Rbt3dZCao8iFIZxK2hjOVksNKd0Bs4uCTtLfSIRD9_0Yp2j64nHpEA1-BVgQMGVYw-N8DaGB9gD100Qa5ZeCwywPzn0TRKzW6gEhDfndP2Uj98rjRu0s-SACjGGhTmitof_AM5hHm-Xfjty3TUti4OaQ",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJl3GCkJtZwokRWsOKKFmLGwQ",
+      "price_level" : 1,
+      "rating" : 3.4,
+      "reference" : "CmRRAAAA1Z_s-o70t7s_KX9aW0UjF48bWch-6MYjvicY2NGimNRlqdbNYrqHF_h_O-4vfzAhxSEZIzh1f1NcUrE3WnJu3hyN7pFQsFaMzeL7BjZP8SM6hc_IN7OH0bv_NxbgyqA5EhAyegqaywe3oVzHqhnemSaSGhTjjz0cv8k1KTgEw1LqF1l4hloDeg",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "2 Saint Marks Place, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.7321749,
+          "lng" : -73.98830389999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.73347603029151,
+            "lng" : -73.98684311970848
+          },
+          "southwest" : {
+            "lat" : 40.73077806970851,
+            "lng" : -73.98954108029149
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "97421ac36bd56c72f0b5ddb9d93bae3ea8c4778b",
+      "name" : "Gotham Pizza",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105868028754912054631/photos\"\u003eJon Lazar\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRZAAAA15_-yadz8jMpgnxEuKrhCv7LDJWpARPfy6zYQSRhM1NwSb3YJYHzlRiVaX2CPC6K6qOgcfJIQC2ZC6LiM7gRiVfrEONaqjVYMPm8x5argPc_PyzLg2vgevKnkXMFhymmEhBZzdh-e7gtZ5TWA_RCs4FJGhTvBaMS7ccIVaQCx1UQ70N3ksNAfQ",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJbY8bt55ZwokRgLaXML6kyRk",
+      "rating" : 3.9,
+      "reference" : "CmRRAAAAB77HXMIBwrSs6VNGm2e_vnDVuwv_OINKOgv7QTitD2roLt8HiEBlkOMmtl8Q-DyZD-ul0AmHdysUCieGbH96oHvR7_R65G5UXzDbTyf1axSlBGYVZvhTj1HgWmwppA9REhAgu_eNS2-_9H8DVmlqXGV7GhRX1Ik6-_QwSbLcBY8IpUoRy-EeLQ",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "88 3rd Avenue, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.7254331,
+          "lng" : -73.9842426
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.7267440302915,
+            "lng" : -73.98280236970851
+          },
+          "southwest" : {
+            "lat" : 40.7240460697085,
+            "lng" : -73.98550033029152
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "716aafdabcde3fd235aef442419f93236979328c",
+      "name" : "99 Pizza",
+      "place_id" : "ChIJ1TSKs4JZwokRc0ki-p46bkk",
+      "reference" : "CmRRAAAAGfqtg6-MfocqWbWb4_MU68kZJtuJ8yqRqKPDKwt7vBvZMEaVG4RHOPUdCxImJUfTUSvacHe-MK4M3ThZVGQF3v1lTyuJMbMhXO_SoF_-9823V5kLj3-6TQFQ6166r1u5EhBj4Sdp9GodIg8VfvEEnfJCGhQSDnXc0CreYsztGn529s256t0Xyw",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "93 Avenue A, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.7260895,
+          "lng" : -73.98980809999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.72739273029151,
+            "lng" : -73.98835076970849
+          },
+          "southwest" : {
+            "lat" : 40.72469476970851,
+            "lng" : -73.9910487302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "79f12f22d7fa0baf73dc303175022f00b08f0dbd",
+      "name" : "Mathew Kenney's Vegan Pizzeria 00 + Co.",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3036,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/118346018238992057497/photos\"\u003ePete Teoh\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAdflpthPHMsCkTo9EyQjmU5Svf6X3Xemy6QHa-59CDpymcjBGcUAZ3oMWovEX5iLSWeGXVBrqOpAqjeuxTWcFHPxXy8KSo6yZjf-bJOzfiVFgqxTsEBXuKw0fTxJ7KTjUEhB711CQdkGkBkulnM84KKxwGhRsZFQxZB22TDzVYcNncyvQLicBWA",
+          "width" : 4048
+        }
+      ],
+      "place_id" : "ChIJKSl_sYRZwokRS5xN0BjS6Bo",
+      "rating" : 4.6,
+      "reference" : "CmRRAAAA8uysoNprzMH6HeD9GfA_M3_ltMVL1HZaMX0k6R0ykB5vyWTYjHjKm82ebpp_d5jniMM9jCyM-ILgCdTgF9bGKDWgf-5DkN33BHFXslEpU0VBHJPsPS0sQPCdUDFOZlG-EhBTJBymCL2yosjXo5xLh0a-GhTPrytW_5Fy-LUm-WDjQXumWKa9Cg",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "65 2nd Avenue, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.725388,
+          "lng" : -73.98979
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.7267756802915,
+            "lng" : -73.98853596970849
+          },
+          "southwest" : {
+            "lat" : 40.7240777197085,
+            "lng" : -73.9912339302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "7d52c1a2a806e967980a884718ed5f46e8b6a452",
+      "name" : "Proto's Pizza",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 665,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109665074649277869914/photos\"\u003eProto&#39;s Pizza\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRZAAAAidtx1n9Fxqg30E6Gwhan6MmJUnSGtkqTV5ICIV7H2d_Rdd_shT44KCt2TfF5e9qZsDSUGlh9NbEsMJZ-EkNd0HytV7XUvDGCUMebutzqtDigPOEwmD9LL4i3oUCrDtuAEhCBqzCrtiWAYOMFfmlDnYvPGhTwRNhehyXi-6ETqHImUSGctMtxbA",
+          "width" : 665
+        }
+      ],
+      "place_id" : "ChIJn__avYRZwokREniN0ztK-Yg",
+      "price_level" : 2,
+      "rating" : 4.6,
+      "reference" : "CmRSAAAAXAQOPJlyXrP6VQfF_22D-9Xjw5NLhPdqk00wFmaOeHUAkYmeSZViEK891HSoA3IV5ja91d2DCj9wBh0B9Cdkm6jGc7UKBrLTNQPDQYKngs_izaGFv0Ggzbc7Eh07LMssEhDsk8lRLKONl3E09no8CceVGhS4kE19Vjn-4F88CC5K9ofXjzJRdQ",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "50 2nd Avenue, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.728717,
+          "lng" : -73.988457
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.7301476802915,
+            "lng" : -73.9870474697085
+          },
+          "southwest" : {
+            "lat" : 40.7274497197085,
+            "lng" : -73.98974543029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "b1c323e024dab22a8769db53bedfd4878250a86b",
+      "name" : "2 Bros Pizza",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2448,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117916411955421813182/photos\"\u003eBrendan Gutenschwager\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA-s0xg5ZOtAQ_YFZha1FWoUVzcbySemssiU55mLj0msJ_GR4t62XqZNloxKp1KgAFoe1mwaS1pfYTfB3ceLcWEG7iVxBs93VEZXZ9BEh4JZMsGI5DRzRQ2ZgoUnOFQ1pwEhBbdEyOTmCDlXQ-46mCrUS6GhRl99ek8pFawjsD3MkX1McKcN1lxQ",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJFzu9fZxZwokRazSJaduDtXA",
+      "price_level" : 1,
+      "rating" : 4.1,
+      "reference" : "CmRRAAAA6O8PeZDCfHZtNKUioDSnPKWuks5VFmlhjyV5RtBRdXLQH5GXjByA2eWbJlEc6RpSPJSLwkWpKcaGxL0Q3q6GaKkGZ3hkIHNrWqpgn6oW3lH38rug3kr_RI82COkgvUv3EhCBVy2W7uVEeFrH8I2Bd0-BGhQeRChzkdOIpPdaKciV_dGHpU7uIw",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "32 Saint Marks Place, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.72609,
+          "lng" : -73.989808
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.72739318029151,
+            "lng" : -73.98835056970849
+          },
+          "southwest" : {
+            "lat" : 40.72469521970851,
+            "lng" : -73.99104853029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "902b4a592bff064d5c39369fdf25b770e8266ff8",
+      "name" : "Double Zero",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2047,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106591575345017219835/photos\"\u003eDouble Zero\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAABQxNeJhJ54tw0Yh4FObL619uNNqAcDplVt-KL4bXmhCDf4eE_g5myRsTc1AHHP_sfoekdVCcEJXV7LmS-gW7wQpVqLyMZdiOwhpHM-ymoPLuojyyjTJ6MMX2c7DaCb5EEhBFJQM1xLiUOjbmANluz2dgGhQ_eVfHavJ_WIvSrdBZl76uZ9DJ6A",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJKSl_sYRZwokR3um3j1y9oFc",
+      "price_level" : 2,
+      "rating" : 4.6,
+      "reference" : "CmRRAAAAD8T3zV4rVrMPysgQ3YqzVcVxC6-Co1LS8S6pfMAlqKe69rtM0MZaxi6gVE4T8k6xVxeXMn13oASV393H_ec1JQ_LoUKM1-lHlbfhYE_uQYlFQWolqaqtzd5iZ4VfRshYEhC4Hli6Qcjp7ipogG9EdyCiGhRkGINnAqgT90RRoi4DNb__trGgUA",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "65 2nd Avenue, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.7281755,
+          "lng" : -73.9851468
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.7294789802915,
+            "lng" : -73.9836919697085
+          },
+          "southwest" : {
+            "lat" : 40.7267810197085,
+            "lng" : -73.98638993029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "de31dd7716770d2b73b29d15d25ce793c89586b7",
+      "name" : "East Village Pizza & Kebabs",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2700,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113205000740985332438/photos\"\u003eEast Village Pizza &amp; Kebabs\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA2FsenH45bUqlBH4xEOUz1JPuM3jynkTGPyaeXM6Kohk1O29CqQkoSCSqRD1Mf-W1y9gkcdJL2ho-6oS_1U1LyqpOWdLy3K_X671vUagqXnqr4bND6Qh1BiIt1ClYmT3wEhD9wZsl8vPX1sOdfwxYZxsfGhQfkS3rUSQySgbeoYI_9h9JGcGN-g",
+          "width" : 4048
+        }
+      ],
+      "place_id" : "ChIJqcgHCJ1ZwokRRmJ-uWL5DAA",
+      "price_level" : 2,
+      "rating" : 4.6,
+      "reference" : "ClRQAAAALFLdMtJn3Za3hxbg723829mr1f9PVjpFtptmGgyEx3_3CEIFvN5BwcAVOXSvvBV37M0WiINlI4hd9Fq5UC6L4rkZeGNR-hUynkoERW9mrhQSEMagcsKarIgFrPMrs23eQAcaFHO3GCh2jmW0ly8jV2MhNnh4f8Dx",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "145 1st Avenue, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.7278209,
+          "lng" : -73.98542569999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.72910528029151,
+            "lng" : -73.9841240697085
+          },
+          "southwest" : {
+            "lat" : 40.72640731970851,
+            "lng" : -73.98682203029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fab4a0d5fd43698732dbaab5dd42bd821eaea0f6",
+      "name" : "Stromboli Pizza",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109443171336515349633/photos\"\u003eCam McCuen\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA5PPf1evuIwMQqpFpKP1a8IrMAFuq8-u3z7dYJtFRGIlLgX6D-kloW-XJfE6UtuI7hyKJ6FyOGE01FdmyrpbpQwxDrQ0n5BlPzOI3a56OJDdz3To7zPlREv4O7S23JRT1EhDQT8BEzs2yrmVgGlMU0Z_qGhRGSm1bQEfJmlHa7PUGSgerm2kLcA",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJ8XbkBJ1ZwokRoDhPSeOCJHE",
+      "price_level" : 2,
+      "rating" : 4.2,
+      "reference" : "CmRRAAAAhQL0Lr1RsGk5XyNNGfYG7alvNdMVWxyilAmBLKMzy8ZYuf0batC9qz3fBICq_Z7pvLKl6Fv9ytc_1X1AHfIvX1gLAwuspYDMvQ3eOEFJCICXRTJx3YQ-WTKimVdUNa8xEhAH7OnQilYm58OeK8TtUcS7GhSvgOQrtcl4jpSjwukne2O6TgIQxw",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "83 Saint Marks Place, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.7303452,
+          "lng" : -73.98298160000002
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.7317428302915,
+            "lng" : -73.98174846970851
+          },
+          "southwest" : {
+            "lat" : 40.7290448697085,
+            "lng" : -73.98444643029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a6aea3cb00d4ff225aa0cf36fd646d203c6cbed9",
+      "name" : "Papa John's Pizza",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 5316,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106983488443689337676/photos\"\u003ePapa John&#39;s Pizza\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAqkI81jbMoTuEraVUraWZ0hGfnfFtYDYE7UBQD2sQnfTR2os-yfPQcZ2mHRhNxr3jzuUpVqiYd3FpMNQfKuhL5-kTeRCm7EjkyvAcapBq7_IgqCYCDhmWGA-8NP7Kh4fOEhAnbUo6FtB2dh2KKZx9LqQSGhR1BkbH2YCVhlEXg-logfLIW7CczQ",
+          "width" : 5316
+        }
+      ],
+      "place_id" : "ChIJG8ro_51ZwokRuwHBubG_9Qw",
+      "price_level" : 2,
+      "rating" : 2.5,
+      "reference" : "CmRRAAAA_Dxofk4nYSvKl2OaAsHPLdnIyuoTKR2ZZyRJNdrLr6pRh04BV_Rbi1DS3lhUEIxWROw5J0eVeKdKoiRxheLenr6MqhGTH8SlEMc0iyEkvzlW8YY-sLqAv2JCUIAs4KIBEhB8rK4pwwqHh5mRmRZl2LhxGhST6QpwiNa66wGO-6fHOIOsUh0ZTQ",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "210 1st Avenue, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.73009649999999,
+          "lng" : -73.99407599999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.73140778029149,
+            "lng" : -73.99275861970848
+          },
+          "southwest" : {
+            "lat" : 40.72870981970849,
+            "lng" : -73.99545658029149
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "4318d21305220d0332a8c1a90285225454c11898",
+      "name" : "Pizza Mercato",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 4608,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104704022654973165401/photos\"\u003eAnnie Legault\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAZ26_9IajHgKHbEnv-IuHV5ElJ8eDsWKbWA6h1jKh8xqQ2XJGwbKTKUnRuUw-RiZjnMu7MhSgdponnONJ3IkNBggkiblYD4Q0RB_zvodR54Av8iZ4e5d51g2agvha8eX7EhAQCfjpWJ4r2W8zl5TYqbYDGhRyyTyW_SW01eCPFS7B_JX35tjzNw",
+          "width" : 2592
+        }
+      ],
+      "place_id" : "ChIJmbJve5pZwokRte_Tjxs8Zdg",
+      "price_level" : 1,
+      "rating" : 3.5,
+      "reference" : "CmRSAAAAHY9m5UIfUpwreY0tGYmEkHaoRXGE86Zzp5E96fAXuK-hQu2BuTPfdU0arp3V-jWwf0MWvbmCTCrBFOX7_G-wZbvOBoSihHlmGOALXpA02P2ONYFqPR6ulbX89omEKn_kEhDDSf-qny94RK4m0g42c00TGhQeBzwNms0bKL-D1VmbU8TDVAQpxQ",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "11 Waverly Pl, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.7326152,
+          "lng" : -73.98620609999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.73406328029149,
+            "lng" : -73.9847859697085
+          },
+          "southwest" : {
+            "lat" : 40.7313653197085,
+            "lng" : -73.9874839302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "a5fe0333bb5ecabd851b6c82bc3c44f59f4cd916",
+      "name" : "Krust Pizza",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104285635870542196972/photos\"\u003eMBB Volga\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA_QQf9MUGiDxeK1FksAs5tBE7FEF35BM4ZmsZGOSqiFS1BYb7vdhr-sFTqOJqnSk_BIJvzrdUd4nsJ8pGamWbIhjM4u48ifqSQP_znSwL3mFDESH-EeAF7i_svOCCqsQUEhA7WxKYpCT0TWVtvkbH5kb1GhStrJGuUGui05YmyUWy4oy5aeHapQ",
+          "width" : 3024
+        }
+      ],
+      "place_id" : "ChIJu6Ms-J5ZwokRdIPZfosEMKo",
+      "price_level" : 1,
+      "rating" : 3.6,
+      "reference" : "CmRSAAAAWpisSLugzYizWuIv0NCDJezldRA9cm8Ejouudk4SyT97zmM1T6zmMOjg-ajrIo-CM0oJHQVborFB0Wdc77VRK8hFnhs0CXShpSPKv6Xq2Be0aHBfdPaNjo8wGjxvhF5lEhB4J9XKiVEHMBSr80eQ5aWgGhSDUwF60S-aLdl3IA8jVZpbq-SNHg",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "226 East 14th Street, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.7323033,
+          "lng" : -73.98735069999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.7337118302915,
+            "lng" : -73.98594681970849
+          },
+          "southwest" : {
+            "lat" : 40.7310138697085,
+            "lng" : -73.98864478029149
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "ed5925bb53a10824c73e3c20ec98f17d83f606f9",
+      "name" : "Bruno Pizza",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2988,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106650514349137814193/photos\"\u003eJulian Vaiana\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA7rKIhRDjsafOOxo9LoPgL6bREq-Ren7-KrQDuGxmomuQdzoKgYQCf_jp88EjBlxkduR7Tki0I03J372JhA13DrkzksmnG2ACqTTQ3mjIGW_F15O7y8EGyNzPpYMKxxULEhDN06Q-H_LhYZsa09l7smxHGhQ8uEAEsfXjaqcCJfh_-0Ra1Y0W6w",
+          "width" : 5312
+        }
+      ],
+      "place_id" : "ChIJq2Gt6p5ZwokRAsAatkpvsbQ",
+      "price_level" : 2,
+      "rating" : 4.6,
+      "reference" : "CmRSAAAAO_5qzwEikljWS7PWc2kVCg-8j9CY3hD4bmJ0eKei4y0GPC1O9eB6vcMWS7ip6NsNvDX5cT33f4NTe9CMtGbyrXK7NJXL_qcRLjcNTUBsV8JrpW99afsnLicE-aYy_tBDEhAEQT1AdeZmf9IXAoRrvHNKGhRgO-36teIBTaNGrCb9_wMUBdjeqg",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "204 East 13th Street, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.72645619999999,
+          "lng" : -73.9895762
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.72775268029149,
+            "lng" : -73.9881043197085
+          },
+          "southwest" : {
+            "lat" : 40.7250547197085,
+            "lng" : -73.99080228029152
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "ce3262170be02760225e9f147ad82dcc6a7c4dfe",
+      "name" : "99 Cents Fresh Pizza",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764/photos\"\u003eRuwan J.\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAKiDObw0ecW_xMCXZRZvohtyfZUXdntANJejKVZmHHXirFLORD-sUaYdkitHEFpUYlYczHO9DUrTMknT8T5PUYdn8lq5O7AkbWHrXxfmEbx88jYxxmB8qMrh8zIZtBFudEhBOQ52FFNh-3mOTa2vELSCwGhRl3TfqncSMAvcA4yuozTUA_WIALw",
+          "width" : 1000
+        }
+      ],
+      "place_id" : "ChIJo6nHrIRZwokRA7ghD-QV808",
+      "rating" : 4.6,
+      "reference" : "CmRRAAAAdEcKcjAhQ426nR8sch6-lpdRIxbtcZCuhyk731kaUKG0MICfi5RRXEtDEozs3ppnprb_Ct7F7uIsXCw6YwG2aFlztugEq7laYyxus6fzPL3u3Lo8pAICd9oaI7Xl3GZuEhB-g2EiLIJ-r5VOJ_4pEavwGhS373Q_gs2S2tupewR7nJpFRHSQTA",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "71 2nd Avenue, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.731145,
+          "lng" : -73.98302
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.7324449302915,
+            "lng" : -73.98155196970848
+          },
+          "southwest" : {
+            "lat" : 40.7297469697085,
+            "lng" : -73.9842499302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "0d9382d4d83dce5a0c507c55aadd627b0c7c2546",
+      "name" : "Vinny Vincenz Pizza",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 720,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101063779557076323509/photos\"\u003eVinny Vincenz Pizza\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAdZTWj2kidyRdcFUHifERz2BXyfYzELv-h6qzM1xTj-mwprf0JICVGz5zdUOzvPTIwqOtRhL_BW2lJT_0ZMHyssphQWqSBk8tH8fxluhroOoC5I59E0Y33tz3C7tMSQlVEhAq0JI0lybmf4HpG3I5HJghGhTL1X3kMH1rRkyioCL6gHvseaaqgA",
+          "width" : 722
+        }
+      ],
+      "place_id" : "ChIJbRF6HZ5ZwokRngxIsUwLv4w",
+      "price_level" : 2,
+      "rating" : 4.2,
+      "reference" : "CmRSAAAAa0avYYPgz5t4e7-5Zmb8IQpktiiZTJ_nUhuGMvtrlwmdwHtyzvT0f-5zmbddNjOub44F62xcwvP6geNjxzgWdwfabfALH_ke-jnJWQz4EB3rYH4W7B289AkGuJzK-ARYEhD2JTbp591_OReTmM63nT14GhTNSfao0hedMI9i-igUzTnYKvwCeA",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_delivery",
+        "meal_takeaway",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "231 1st Avenue, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.7292363,
+          "lng" : -73.98432919999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.7305503302915,
+            "lng" : -73.98289181970848
+          },
+          "southwest" : {
+            "lat" : 40.7278523697085,
+            "lng" : -73.98558978029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "7a4168bf11c2d9889ca37c037537f3338ad7b3d5",
+      "name" : "Iggy's",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2448,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115235755172384586896/photos\"\u003eChristopher Jenness\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA6EnRT6bBpiGzw3bALpYroHgcTTMtAvpWEpxclWRUkHWe2hoYFAX_IgFgVDu99oSZhZPuxniZUdkEw0iUXfdYzAdhqc-QuL0uXXkMmLcJaUc7OlzUWK7PhYEGDJEdrRW5EhBxCeg5TtYrcYrFEsIitKBsGhQY5KV_nNPurjHRj0oT3XiMacc3hg",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJhRgGlZ1ZwokRDmlaeoZBxAc",
+      "price_level" : 2,
+      "rating" : 3.4,
+      "reference" : "CmRRAAAAxC4Hywledlu_gRDG-bQf6pNFgnu7YSJ88a2z40I08X7dfkYR4U_hWzCU1kn-EqvlAmPdBCndczUh6Uk59cseU7yjSQJHLmKhh0rmf1IdOyvM2OaAEJXZr2_8tT4O75ThEhBwAo5xdhjWCG3OycZJLZ4sGhTVXXKEPS6Ztl2w0sDTphYiEPaUHg",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "173 1st Avenue, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.7297781,
+          "lng" : -73.9865052
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.7311750302915,
+            "lng" : -73.98527061970849
+          },
+          "southwest" : {
+            "lat" : 40.7284770697085,
+            "lng" : -73.98796858029149
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "064e037138242b76e8797b373c074a29a49b29ce",
+      "name" : "Nicoletta",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1365,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108946898025672327182/photos\"\u003eNicoletta\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA2KlZAggrRtwGolAmxUdBZyli7Z5CfK6ZOnLj92dMHwHW_tmjod0oMYxp0TaJ0fe3k8APmfEqbqqWNkG2Lx5bA9pLCJlM0_dYc6V4XwX1-tV7MuNmz2rkk-qXl0bdZGbbEhAkK2fDcpwShURi26A_VgugGhR-vlTENAjB1XVnUY9IsBCMZ80Aag",
+          "width" : 1367
+        }
+      ],
+      "place_id" : "ChIJudycMZxZwokRHkPVcESPKZA",
+      "price_level" : 2,
+      "rating" : 4,
+      "reference" : "CmRSAAAASHrdbPDnna_xunw8vhHSM7GHO_PJQjwMnpDwbgKAmy0KIygzo1HrHLkJB0vI_hWfWIh40KwjWiSCwkYDP5KfWStHn2tdL1s_nxeeyFG8LgeviK6CJgEIIrxlACGYjwGAEhAymX4ukGzZ1SzCQ_F1vh_qGhRpdHVbqQXZc2kD_NRc5EZCP40GiA",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "160 2nd Avenue, New York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 40.73113559999999,
+          "lng" : -73.98832879999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.73248458029149,
+            "lng" : -73.98697981970848
+          },
+          "southwest" : {
+            "lat" : 40.72978661970849,
+            "lng" : -73.9896777802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "ce9dd7340eba8f7b20904e763ed2d015a8573549",
+      "name" : "Martina",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1367,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108601240360905584534/photos\"\u003eMartina\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAj2fp-Rw3xm-YouMxPTF7_t0MlydokhdZSof-tUEmiNlT5BGoEQ_MIElXhJ0aRREedkvH990ZhJ06Tr21umePm8wMdUNwlSLTov_DKIz-Y_B0PDDjjKaJguCBRrb-AqjOEhD9cjAoMEWBTsbdcoIYpd1nGhTPWaMpA-DeXV_4DBp9a8cVAMDHFg",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJyQcAq55ZwokRrPQj9o7eMWc",
+      "price_level" : 2,
+      "rating" : 4.5,
+      "reference" : "CmRRAAAAayKhN6KewiNaENG9G9poU3rZ_8gUgVI8oSI0u3dxqs7eMjfd_JbFDgckuhEaXDrYMQ1eh7MMKJD_vtPe1WuQTO4FfY5oEMEH91iT2nAexxAUia1QwyTiJtFuvi3h2oq4EhAxj7hxXHOoF-3FJ-U40IcKGhRDFaeEGCUeCoVJcpfft-hrdtPINQ",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "198 East 11th Street, New York"
+    }
+  ],
+  "status" : "OK"
+}

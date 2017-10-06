@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search renders correctly 1`] = `
+<nav
+  className="navbar navbar-light"
+  style={
+    Object {
+      "backgroundColor": "#455a64",
+    }
+  }
+>
+  <input
+    onChange={[Function]}
+    onKeyPress={[Function]}
+    placeholder="Search"
+    style={
+      Object {
+        "width": "600px",
+      }
+    }
+    type="text"
+    value={undefined}
+  />
+  <div
+    className="pull-right"
+    style={
+      Object {
+        "color": "white",
+      }
+    }
+  >
+    
+  </div>
+</nav>
+`;
